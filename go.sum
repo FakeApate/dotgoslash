@@ -34,8 +34,6 @@ github.com/clipperhouse/uax29/v2 v2.5.0/go.mod h1:Wn1g7MK6OoeDT0vL+Q0SQLDz/KpfsV
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/fakeapate/mullvad v0.3.0 h1:hT8FBwZBtC4GmFAjsnsk8KnTIOSCQMtFThvfZ1SNU4g=
-github.com/fakeapate/mullvad v0.3.0/go.mod h1:8p3y1xsQP1dAbh8bIjSDHZrG3Sl3z6TqWGNpG6eAUN4=
 github.com/fakeapate/mullvad v0.4.0 h1:LM+/EyBlefZ7M//e/13eXFMm56AvsD4qeF1xnOr+cHw=
 github.com/fakeapate/mullvad v0.4.0/go.mod h1:8p3y1xsQP1dAbh8bIjSDHZrG3Sl3z6TqWGNpG6eAUN4=
 github.com/go-logfmt/logfmt v0.6.1 h1:4hvbpePJKnIzH1B+8OR/JPbTx37NktoI9LE2QZBBkvE=
