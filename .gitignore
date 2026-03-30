@@ -1,0 +1,4 @@
+*.json
+!payloads.jsons
+.claude
+dotgoslash
